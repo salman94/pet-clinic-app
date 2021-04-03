@@ -1,4 +1,4 @@
-package com.coolprogrammer.spring.petclinicapp;
+package petclinicapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
