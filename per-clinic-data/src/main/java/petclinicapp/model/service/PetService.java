@@ -5,7 +5,6 @@ import petclinicapp.model.Vet;
 import java.util.Set;
 
 public interface PetService {
-    Vet findByLastName(String lastName);
 
     Vet findById(Long id);
 
