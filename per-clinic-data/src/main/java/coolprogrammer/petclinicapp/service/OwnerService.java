@@ -1,6 +1,6 @@
-package petclinicapp.model.service;
+package coolprogrammer.petclinicapp.service;
 
-import petclinicapp.model.Owner;
+import coolprogrammer.petclinicapp.model.Owner;
 
 import java.util.Set;
 
