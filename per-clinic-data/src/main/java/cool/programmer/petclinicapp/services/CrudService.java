@@ -1,4 +1,4 @@
-package cool.programmer.petclinicapp.service;
+package cool.programmer.petclinicapp.services;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package cool.programmer.petclinicapp.service;
+package cool.programmer.petclinicapp.services;
 
 import cool.programmer.petclinicapp.model.Pet;
 

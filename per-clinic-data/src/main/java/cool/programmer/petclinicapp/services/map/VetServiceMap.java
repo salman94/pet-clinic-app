@@ -1,7 +1,7 @@
-package cool.programmer.petclinicapp.service.map;
+package cool.programmer.petclinicapp.services.map;
 
 import cool.programmer.petclinicapp.model.Vet;
-import cool.programmer.petclinicapp.service.CrudService;
+import cool.programmer.petclinicapp.services.CrudService;
 
 import java.util.Set;
 

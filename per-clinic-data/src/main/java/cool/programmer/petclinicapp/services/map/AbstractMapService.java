@@ -1,4 +1,4 @@
-package cool.programmer.petclinicapp.service.map;
+package cool.programmer.petclinicapp.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;

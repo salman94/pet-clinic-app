@@ -1,8 +1,7 @@
-package cool.programmer.petclinicapp.service.map;
+package cool.programmer.petclinicapp.services.map;
 
 import cool.programmer.petclinicapp.model.Owner;
-import cool.programmer.petclinicapp.service.CrudService;
-import cool.programmer.petclinicapp.service.map.AbstractMapService;
+import cool.programmer.petclinicapp.services.CrudService;
 
 import java.util.Set;
 
