@@ -1,4 +1,4 @@
 package cool.programmer.petclinicapp.model;
 
-public class Vet {
+public class Vet extends Person{
 }
